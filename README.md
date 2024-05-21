@@ -7,6 +7,8 @@ An unofficial wrapper for Krutrim written in python
 2. Register a new account
 3. Submit a request for API access
 4. Go to the sidebar and select Interface Service > API Keys to generate a new key
+### Install
+`pip install krutrimpy`
 
 ### Example
 ```py
